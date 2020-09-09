@@ -1,2 +1,2 @@
 # ArpitReactDesignTask
-Reqct native design
+React native design
